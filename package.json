@@ -1,0 +1,23 @@
+{
+  "name": "jagged-rainbow",
+  "version": "1.0.0",
+  "description": "website docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefarture/jagged-rainbow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thefarture/jagged-rainbow/issues"
+  },
+  "homepage": "https://github.com/thefarture/jagged-rainbow#readme",
+  "dependencies": {
+    "aframe-outline": "^1.1.1",
+    "aframe-particle-system-component": "^1.1.3"
+  }
+}
