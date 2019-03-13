@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/thefarture/jagged-rainbow#readme",
   "dependencies": {
-    "aframe-outline": "^1.1.1",
     "aframe-particle-system-component": "^1.1.3"
   }
 }
